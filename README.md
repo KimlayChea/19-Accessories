@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
+# 19-ACCESSORIES
 
-## Project info
+**Elevate Style, Simplify Life, Unleash Confidence**
 
-**URL**: https://lovable.dev/projects/a7e1657d-7c67-4562-82be-840832bb86ab
+![Last Commit](https://img.shields.io/github/last-commit/KimlayChea/19-Accessories)
+![TypeScript](https://img.shields.io/badge/typescript-80.2%25-blue)
+![Languages](https://img.shields.io/github/languages/count/KimlayChea/19-Accessories)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🔧 Built with the tools and technologies
 
-**Use Lovable**
+![JSON](https://img.shields.io/badge/-JSON-informational)
+![Markdown](https://img.shields.io/badge/-Markdown-lightgrey)
+![npm](https://img.shields.io/badge/-npm-red)
+![Autoprefixer](https://img.shields.io/badge/-Autoprefixer-critical)
+![PostCSS](https://img.shields.io/badge/-PostCSS-orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-green)
+![React](https://img.shields.io/badge/-React-61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6)
+![Zod](https://img.shields.io/badge/-Zod-purple)
+![Vite](https://img.shields.io/badge/-Vite-646CFF)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3)
+![date-fns](https://img.shields.io/badge/-datefns-ff69b4)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-pink)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a7e1657d-7c67-4562-82be-840832bb86ab) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📑 Table of Contents
 
-**Use your preferred IDE**
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📖 Overview
 
-Follow these steps:
+**19-Accessories** is a versatile developer toolkit that provides a structured architecture, styling conventions, and a rich library of accessible UI components for building scalable web applications.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+It integrates **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and various utility libraries to streamline development and ensure consistency across projects.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Why 19-Accessories?
 
-# Step 3: Install the necessary dependencies.
-npm i
+This project aims to simplify frontend development with a focus on maintainability and scalability. The core features include:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- 🎨 **Component Architecture & Styling**  
+  Establishes consistent UI patterns with schema validation, Tailwind CSS configs, and path aliases.
 
-**Edit a file directly in GitHub**
+- ⚙️ **Reusable UI Components**  
+  A comprehensive suite of accessible, customizable components for navigation, forms, feedback, and more.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- 🔗 **API & Data Management**  
+  Seamless integrations with backend services for products, categories, user auth, messaging, and settings.
 
-**Use GitHub Codespaces**
+- 🚀 **Developer Experience**  
+  Includes Vite dev server, environment configs, ESLint, and utility functions to boost productivity.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- 📱 **Responsive & Accessible**  
+  Hooks and components designed for device responsiveness and inclusive user interfaces.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🚀 Getting Started
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### Prerequisites
 
-## How can I deploy this project?
+Make sure you have the following installed:
 
-Simply open [Lovable](https://lovable.dev/projects/a7e1657d-7c67-4562-82be-840832bb86ab) and click on Share -> Publish.
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- Vite (comes as a dev dependency)
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+### 📦 Installation
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+1. **Clone the repository**
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+   ```bash
+   git clone https://github.com/KimlayChea/19-Accessories
